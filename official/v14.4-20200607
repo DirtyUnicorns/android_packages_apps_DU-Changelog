@@ -1,0 +1,17 @@
+[
+{
+"changelog": "- Merged in June's security update
+
+- Redesigned DU-Tweaks
+
+- Implemented Rebanded Lineage OS recovery, better assist Pixel users to flash
+
+- Reverse engineered and implemented NGA (next generation assistant). Pixel 4/4XL only. Edge lights work on all devices.
+
+- Added various AOSP fixes to improve the overall experience
+
+- Device specific fixes across multiple devices
+
+"
+}
+]
