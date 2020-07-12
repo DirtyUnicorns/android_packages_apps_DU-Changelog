@@ -1,0 +1,27 @@
+[
+{
+"changelog": "- Merged in July's security update
+
+- Return of the almighty Pulse! (Beware: the awesomeness of this feature may nuke your battery life)
+
+- Implemented a mechanism to configure your lockscreen timeout. Uses the same list values as regular display timeout.
+
+- Implemented the notification and battery lights mod (Note: This feature is only available to devices with an LED light)
+
+- Add in the Titillium Web Font
+
+- Update Pixel Launcher (P4XL revision)
+
+- Fix Network Traffic speed format (for 10*KB)
+
+- Allow themes to switch QS icons to drawables
+
+- Added various AOSP fixes to improve the overall experience
+
+- Device specific fixes where applicable
+
+- Imported French translations
+
+"
+}
+]
