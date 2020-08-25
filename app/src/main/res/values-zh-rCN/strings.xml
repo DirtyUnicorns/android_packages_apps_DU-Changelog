@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <resources>
-    <string name="changelog_title">Changelog</string>
-    <string name="changelog_unavailable">Changelog not available</string>
-    <string name="changelog_no_connection_title">No internet connection</string>
-    <string name="changelog_no_connection_summary">Check that you\'re online and that your phone or tablet is connected to the internet.</string>
+    <string name="changelog_title">更新日志</string>
+    <string name="changelog_unavailable">更新日志不可用</string>
+    <string name="changelog_no_connection_title">没有网络连接</string>
+    <string name="changelog_no_connection_summary">检查您是否在线，并检查您的手机或平板电脑是否已连接到互联网。</string>
 </resources>

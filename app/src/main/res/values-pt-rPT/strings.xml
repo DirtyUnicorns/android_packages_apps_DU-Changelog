@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <resources>
-    <string name="changelog_title">Changelog</string>
-    <string name="changelog_unavailable">Changelog not available</string>
-    <string name="changelog_no_connection_title">No internet connection</string>
-    <string name="changelog_no_connection_summary">Check that you\'re online and that your phone or tablet is connected to the internet.</string>
+    <string name="changelog_title">Alterações</string>
+    <string name="changelog_unavailable">Alterações não disponíveis</string>
+    <string name="changelog_no_connection_title">Sem ligação à internet</string>
+    <string name="changelog_no_connection_summary">Verifique se está online e que o seu telemóvel ou tablet está ligado à internet.</string>
 </resources>
