@@ -1,0 +1,17 @@
+[
+{
+"changelog": "- Merged in September's security update
+
+- Fix minor issue with lockscreen clock
+
+- Clean up Pulse solid render code and improve performance
+
+- Added various AOSP fixes to improve the overall experience
+
+- Device specific fixes where applicable
+
+- Imported translations
+
+"
+}
+]
